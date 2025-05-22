@@ -64,3 +64,19 @@ Shorts are highly appropriate and recommended. Consider swimwear, beach shorts, 
 A person enjoying a beach vacation wearing comfortable linen shorts and a light, loose-fitting shirt, standing on golden sand with the ocean in the background. The scene captures a bright sunny day with a few fluffy clouds, palm trees swaying in a gentle breeze, and beachgoers with sunhats, sunglasses and beach umbrellas. A nearby weather station display shows 32°C, and the person is applying sunscreen while looking relaxed and happy in the vacation setting.
 ```
 
+## Example 5: Outdoor Business Networking Event
+**Input Parameters:**
+1. Temperature: 38°C
+2. Weather: Extremely hot, sunny day
+3. Occasion: Professional networking event
+4. Dress Code: Business casual (modified for extreme heat)
+5. Time: Evening, 2-hour outdoor garden reception
+
+**Recommendation:**
+Due to the extreme temperature, tailored dress shorts are appropriate in this setting despite the business casual nature. Opt for high-quality, knee-length dress shorts in neutral colors paired with a pressed short-sleeve button-down shirt or a quality polo shirt. Proper leather loafers or boat shoes (not sandals) complete the look. This balances professionalism with practical comfort in extreme heat.
+
+**DALL-E Prompt:**
+```markdown
+A garden networking reception at sunset with professionals adapting to extreme heat conditions. People are gathered under large shade canopies with portable cooling fans visible throughout the venue. Several attendees are wearing tailored knee-length dress shorts in navy, khaki, and gray with crisp short-sleeved button-down shirts or quality polo shirts, paired with leather loafers. Digital thermometers around the venue show 38°C. Wait staff are offering cold towels and iced drinks, and some guests are dabbing their foreheads with handkerchiefs while exchanging business cards in this elegant but uncomfortably hot outdoor setting.
+```
+
